@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="530" viewBox="0 0 1200 530" role="img" aria-label="MORi terminal profile">
+<style>
+text{font-family:Consolas,"Liberation Mono",monospace;font-size:13px;white-space:pre}
+.logo{font-size:8.2px;font-weight:bold;fill:#24292f}
+.head{font-size:16px;font-weight:bold;fill:#2d3a4a}
+.key{fill:#5b4fcf} .value{fill:#24292f} .muted{fill:#8a9aac}
+</style>
+<rect width="1200" height="530" rx="14" fill="#f6f8fa"/>
+<text class="head" x="600" y="34">MORi</text><path d="M650 29 H1170" stroke="#8a9aac" stroke-width="1"/>
+<text class="logo" x="18" y="145">##%=       *%%+    :*%@@#-    :%#####%#+.  =%#%#%%%#%# =%##%%###%#</text>
+<text class="logo" x="18" y="164">@@@@      -@@@*   +@@@@@@@#   -@@@@@@@@@@- *@@@@@@@@@@ +@@@@@@@@@@</text>
+<text class="logo" x="18" y="183">@@@@+     %@@@*  *@@@@%%@@@%  -@@@@@@@@@@@ +@@@@@@@@@@ +@@@@@@@@@@</text>
+<text class="logo" x="18" y="202">@@@@@.   =@@@@* -@@@=   -@@@* -@@*    .#@@- ..........  ..........</text>
+<text class="logo" x="18" y="221">@@@@@#   @@@@@* %@@=     :@@@ -@@+     =@@=                       </text>
+<text class="logo" x="18" y="240">@@@@@@- +@@%@@*.@@%       *@@-:@@+     #@@::========== :==========</text>
+<text class="logo" x="18" y="259">@@%=@@#:@@%-@@*:@@*       -@@=:@@@####%@@@ *@@@@@@@@@@ *@@@@@@@@@@</text>
+<text class="logo" x="18" y="278">@@% #@@@@@=:@@*:@@*       -@@=:@@@@@@@@@@- *@@@@@@@@@@ +@@@@@@@@@@</text>
+<text class="logo" x="18" y="297">@@% :@@@@% :@@*.@@%       *@@-:@@@%%@@@%.  :========== :==========</text>
+<text class="logo" x="18" y="316">@@%  *@@@- -@@* %@@=     :@@@ -@@*  :@@%                          </text>
+<text class="logo" x="18" y="335">@@%  .@@#  :@@* -@@@+.  -@@@* -@@+   *@@*  ...........  ..........</text>
+<text class="logo" x="18" y="354">@@%   +@.  :@@*  *@@@@%@@@@%  -@@+   .@@@: +@@@@@@@@@@ +@@@@@@@@@@</text>
+<text class="logo" x="18" y="373">@@@    :   :@@*   +@@@@@@@#   -@@*    =@@@ +@@@@@@@@@@ +@@@@@@@@@@</text>
+<text class="logo" x="18" y="392">#%#        :%%+    :*@@@#-    :%%=     ##%:=%######### =%#####%###</text>
+<g>
+<text x="600" y="80"><tspan class="key">Name</tspan><tspan class="muted"> ......................... </tspan><tspan class="value">Morsal Moshayekhi</tspan></text>
+<text x="600" y="110"><tspan class="key">Alias</tspan><tspan class="muted"> ................................ </tspan><tspan class="value">MORi</tspan></text>
+<text x="600" y="130"><tspan class="key">Brand</tspan><tspan class="muted"> ............................... </tspan><tspan class="value">MOREE</tspan></text>
+<text x="600" y="150"><tspan class="key">Role</tspan><tspan class="muted"> ................................ </tspan><tspan class="value">Student · AI &amp; Technology Builder</tspan></text>
+<text x="600" y="190" class="head">- Interests ─────────────────────────────────────────────</text>
+<text x="600" y="220"><tspan class="key">01</tspan><tspan class="value">  Artificial Intelligence</tspan></text>
+<text x="600" y="242"><tspan class="key">02</tspan><tspan class="value">  Software &amp; Web Development</tspan></text>
+<text x="600" y="264"><tspan class="key">03</tspan><tspan class="value">  Linux &amp; Open Source</tspan></text>
+<text x="600" y="286"><tspan class="key">04</tspan><tspan class="value">  Robotics &amp; Cybersecurity</tspan></text>
+<text x="600" y="308"><tspan class="key">05</tspan><tspan class="value">  Hardware &amp; Future Tech</tspan></text>
+<text x="600" y="348" class="head">- Currently ─────────────────────────────────────────────</text>
+<text x="600" y="378"><tspan class="key">Building</tspan><tspan class="muted"> ............................. </tspan><tspan class="value">MOREE</tspan></text>
+<text x="600" y="400"><tspan class="key">Learning</tspan><tspan class="muted"> ............................. </tspan><tspan class="value">AI, Programming, English</tspan></text>
+<text x="600" y="422"><tspan class="key">Approach</tspan><tspan class="muted"> ............................. </tspan><tspan class="value">Build · Break · Understand</tspan></text>
+<text x="600" y="462" class="head">- Contact ───────────────────────────────────────────────</text>
+<text x="600" y="492"><tspan class="key">GitHub</tspan><tspan class="muted"> ............................... </tspan><tspan class="value">@morsalmashayekhi</tspan></text>
+</g></svg>
