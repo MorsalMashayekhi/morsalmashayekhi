@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="530" viewBox="0 0 1200 530" role="img" aria-label="MORi terminal profile">
 <style>
-text{font-family:Consolas,"Liberation Mono",monospace;font-size:13px;white-space:pre}
-.logo{font-size:8.2px;font-weight:bold;fill:#f0f3f6}
+text{font-family:Consolas,"Liberation Mono",monospace;white-space:pre}
+.logo{font-size:15px;font-weight:700;letter-spacing:1px;fill:#f0f3f6}
 .head{font-size:16px;font-weight:bold;fill:#c9d1d9}
 .key{fill:#9d9eff} .value{fill:#f0f3f6} .muted{fill:#667386}
 </style>
 <rect width="1200" height="530" rx="14" fill="#161b22"/>
 <text class="head" x="600" y="34">MORi</text><path d="M650 29 H1170" stroke="#667386" stroke-width="1"/>
-<text class="logo" x="18" y="145">##%=       *%%+    :*%@@#-    :%#####%#+.  =%#%#%%%#%# =%##%%###%#</text>
-<text class="logo" x="18" y="164">@@@@      -@@@*   +@@@@@@@#   -@@@@@@@@@@- *@@@@@@@@@@ +@@@@@@@@@@</text>
-<text class="logo" x="18" y="183">@@@@+     %@@@*  *@@@@%%@@@%  -@@@@@@@@@@@ +@@@@@@@@@@ +@@@@@@@@@@</text>
-<text class="logo" x="18" y="202">@@@@@.   =@@@@* -@@@=   -@@@* -@@*    .#@@- ..........  ..........</text>
-<text class="logo" x="18" y="221">@@@@@#   @@@@@* %@@=     :@@@ -@@+     =@@=                       </text>
-<text class="logo" x="18" y="240">@@@@@@- +@@%@@*.@@%       *@@-:@@+     #@@::========== :==========</text>
-<text class="logo" x="18" y="259">@@%=@@#:@@%-@@*:@@*       -@@=:@@@####%@@@ *@@@@@@@@@@ *@@@@@@@@@@</text>
-<text class="logo" x="18" y="278">@@% #@@@@@=:@@*:@@*       -@@=:@@@@@@@@@@- *@@@@@@@@@@ +@@@@@@@@@@</text>
-<text class="logo" x="18" y="297">@@% :@@@@% :@@*.@@%       *@@-:@@@%%@@@%.  :========== :==========</text>
-<text class="logo" x="18" y="316">@@%  *@@@- -@@* %@@=     :@@@ -@@*  :@@%                          </text>
-<text class="logo" x="18" y="335">@@%  .@@#  :@@* -@@@+.  -@@@* -@@+   *@@*  ...........  ..........</text>
-<text class="logo" x="18" y="354">@@%   +@.  :@@*  *@@@@%@@@@%  -@@+   .@@@: +@@@@@@@@@@ +@@@@@@@@@@</text>
-<text class="logo" x="18" y="373">@@@    :   :@@*   +@@@@@@@#   -@@*    =@@@ +@@@@@@@@@@ +@@@@@@@@@@</text>
-<text class="logo" x="18" y="392">#%#        :%%+    :*@@@#-    :%%=     ##%:=%######### =%#####%###</text>
+<g transform="translate(280 0)">
+<text class="logo" x="0" y="258" text-anchor="middle">##   ##   ####   ##   ##   ######  ######</text>
+<text class="logo" x="0" y="293" text-anchor="middle">### ###  ##  ##  ###  ##   ##      ##</text>
+<text class="logo" x="0" y="328" text-anchor="middle">## # ##  ##  ##  ## # ##   ####    ####</text>
+<text class="logo" x="0" y="363" text-anchor="middle">##   ##  ##  ##  ##  ###   ##      ##</text>
+<text class="logo" x="0" y="398" text-anchor="middle">##   ##   ####   ##   ##   ######  ######</text>
+</g>
 <g>
 <text x="600" y="80"><tspan class="key">Name</tspan><tspan class="muted"> ......................... </tspan><tspan class="value">Morsal Moshayekhi</tspan></text>
 <text x="600" y="110"><tspan class="key">Alias</tspan><tspan class="muted"> ................................ </tspan><tspan class="value">MORi</tspan></text>
