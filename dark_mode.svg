@@ -8,7 +8,7 @@
   -webkit-size-adjust: 109%;
   size-adjust: 109%;
 }
-.key {fill: #9d9effff;}
+.key {fill: #FCEE0A;}
 .value {fill: #ffffffff;}
 .addColor {fill: #3fb950;}
 .delColor {fill: #f85149;}
