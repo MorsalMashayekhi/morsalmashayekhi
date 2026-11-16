@@ -14,16 +14,15 @@
 
 <rect width="1200" height="530" fill="#f6f8fa" rx="15"/>
 
-<g class="ascii" fill="#7c8fa3" font-family="Consolas, monospace" font-size="20" font-weight="bold" letter-spacing="1" text-anchor="middle" aria-label="MOREE ASCII art">
-  <text x="300" y="170" font-size="13" letter-spacing="2">+-------------------- MOREE --------------------+</text>
-  <text x="300" y="205" text-anchor="middle">#   # ##### ##### ##### #####</text>
-  <text x="300" y="229" text-anchor="middle">## ## ## ## ##    ##    ##   </text>
-  <text x="300" y="253" text-anchor="middle"># # # ## ## ##    ##    ##   </text>
-  <text x="300" y="277" text-anchor="middle"># # # ## ## ##### ##### #####</text>
-  <text x="300" y="301" text-anchor="middle">#   # ## ## ##    ##    ##   </text>
-  <text x="300" y="325" text-anchor="middle">#   # ## ## ##    ##    ##   </text>
-  <text x="300" y="349" text-anchor="middle">#   # ##### ##### ##### #####</text>
-  <text x="300" y="395" font-size="13" letter-spacing="2">+-----------------------------------------------+</text>
+<g class="ascii" fill="#7c8fa3" font-family="Consolas, monospace" font-size="17" font-weight="bold" text-anchor="middle" aria-label="MOREE ASCII art">
+  <text x="275" y="205">#...#  .###.  ####.  #####  #####</text>
+  <text x="275" y="228">##.##  #...#  #...#  #....  #....</text>
+  <text x="275" y="251">#.#.#  #...#  #...#  #....  #....</text>
+  <text x="275" y="274">#.#.#  #...#  ####.  ####.  ####.</text>
+  <text x="275" y="297">#...#  #...#  #.#..  #....  #....</text>
+  <text x="275" y="320">#...#  #...#  #..#.  #....  #....</text>
+  <text x="275" y="343">#...#  .###.  #...#  #####  #####</text>
+  <text x="275" y="390" font-size="12" font-weight="normal" letter-spacing="3">M O R E E</text>
 </g>
 
 <text x="600" y="30" fill="#2d3a4a">
