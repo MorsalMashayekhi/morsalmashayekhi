@@ -11,7 +11,7 @@
 
 ```text
 Name                  : Morsal Mashayekhi (MORi)
-Uptime                : <!-- UPTIME:START -->Calculating...<!-- UPTIME:END -->
+Uptime                : <!-- UPTIME:START -->16 years, 9 months, 12 days<!-- UPTIME:END -->
 
 Location              : Iran
 IDE                   : Visual Studio Code
