@@ -1,0 +1,63 @@
+name: Update profile uptime
+
+on:
+  schedule:
+    - cron: "30 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-uptime:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update age counter
+        run: |
+          python3 <<'PY'
+          from datetime import date, datetime
+          from pathlib import Path
+          from zoneinfo import ZoneInfo
+          from calendar import monthrange
+          import re
+
+          birth = date(2010, 2, 4)
+          today = datetime.now(ZoneInfo("Asia/Tehran")).date()
+
+          years = today.year - birth.year
+          months = today.month - birth.month
+          days = today.day - birth.day
+
+          if days < 0:
+              previous_month = today.month - 1 or 12
+              previous_year = today.year if today.month > 1 else today.year - 1
+              days += monthrange(previous_year, previous_month)[1]
+              months -= 1
+
+          if months < 0:
+              months += 12
+              years -= 1
+
+          value = f"{years} years, {months} months, {days} days"
+          path = Path("README.md")
+          content = path.read_text(encoding="utf-8")
+          content, count = re.subn(
+              r"<!-- UPTIME:START -->.*?<!-- UPTIME:END -->",
+              f"<!-- UPTIME:START -->{value}<!-- UPTIME:END -->",
+              content,
+              count=1,
+          )
+          if count != 1:
+              raise SystemExit("Uptime markers not found exactly once")
+          path.write_text(content, encoding="utf-8")
+          PY
+
+      - name: Commit updated uptime
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || (git commit -m "chore: update profile uptime" && git push)
