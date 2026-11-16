@@ -4,7 +4,7 @@
 text{font-family:Consolas,"Liberation Mono",monospace;white-space:pre}
 .logo{font-size:15px;font-weight:700;letter-spacing:1px;fill:#24292f}
 .head{font-size:16px;font-weight:bold;fill:#2d3a4a}
-.key{fill:#5b4fcf} .value{fill:#24292f} .muted{fill:#8a9aac}
+.key{fill:#687d00} .value{fill:#24292f} .muted{fill:#8a9aac}
 </style>
 <rect width="1200" height="530" rx="14" fill="#f6f8fa"/>
 <text class="head" x="600" y="34">MORi</text><path d="M650 29 H1170" stroke="#8a9aac" stroke-width="1"/>
