@@ -20,7 +20,7 @@ text, tspan {white-space: pre;}
 <rect width="1500px" height="530px" fill="#161b22" rx="15"/>
 
 <!-- ASCII LOGO (compact version) -->
-<g class="ascii" fill="#FCEE0A" font-family="Consolas, 'Courier New', monospace" font-size="5.8" font-weight="600" xml:space="preserve" aria-label="MOREE ASCII logo">
+<g class="ascii" fill="#FFFFFF" font-family="Consolas, 'Courier New', monospace" font-size="5.8" font-weight="600" xml:space="preserve" aria-label="MOREE ASCII logo">
   <tspan x="18" y="183">+*******a}                 'Q#*****#/           ;(Ca@$$$&amp;qv]            C******************bZc1;       Y************************b}  v#*********************##W+</tspan>
   <tspan x="18" y="193">_$$$$@f                *$$$$x        +d$$$$$$$$$$$8X         q$$$$$$$$$$$$Q'    Z$$$$$$$$$$$$8(  J$$$$$$$$$$$$$-</tspan>
   <tspan x="18" y="203">_$$$$$u             i$$$$$r      /$$$$$$$$$$$$$a;      w$$$$$$$$$$$$$n   w$$$$$$$$$$$$8(  C$$$$$$$$$$$$$-</tspan>
