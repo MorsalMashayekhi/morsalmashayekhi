@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,monospace" width="1200" height="530" font-size="13.5px">
 <style>
-  .key {fill: #5b4fcf;}
+  .key {fill: #9A7600;}
   .value {fill: #1a1a2e;}
   .addColor {fill: #1a7f37;}
   .delColor {fill: #cf222e;}
