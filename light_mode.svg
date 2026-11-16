@@ -1,31 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="530" viewBox="0 0 1200 530" role="img" aria-label="MORi terminal profile">
-<style>
-text{font-family:Consolas,"Liberation Mono",monospace;white-space:pre}
-.logo{font-size:15px;font-weight:700;letter-spacing:1px;fill:#24292f}
-.head{font-size:16px;font-weight:bold;fill:#2d3a4a}
-.key{fill:#687d00} .value{fill:#24292f} .muted{fill:#8a9aac}
-</style>
-<rect width="1200" height="530" rx="14" fill="#f6f8fa"/>
-<text class="head" x="600" y="34">MORi</text><path d="M650 29 H1170" stroke="#8a9aac" stroke-width="1"/>
-<g transform="translate(30 213) scale(0.447)">
-<path d="M 940,181 940,226 941,227 944,227 945,226 1111,226 1112,227 1113,226 1114,227 1116,227 1117,226 1117,180 1107,180 1106,181 944,181 943,180 941,180 Z M 915,181 914,180 908,180 907,181 736,181 736,226 915,226 Z M 940,92 940,138 1117,138 1117,92 Z M 736,92 736,138 915,138 915,92 Z M 940,3 940,49 1117,49 1117,3 Z M 736,4 736,49 914,49 915,48 915,4 914,3 808,3 807,4 804,4 803,3 745,3 744,4 742,4 741,3 739,4 737,3 Z M 521,3 520,4 520,90 519,91 520,92 520,137 519,138 520,139 520,226 568,226 568,148 569,147 612,147 613,146 617,147 621,152 623,157 627,162 634,175 638,180 643,190 647,195 652,205 658,213 665,226 721,226 715,218 705,200 700,194 693,181 689,176 687,171 684,168 682,163 678,158 677,155 669,143 671,140 676,139 684,135 693,129 703,119 707,113 709,108 711,106 712,101 714,98 714,95 715,94 715,91 717,86 717,62 716,61 715,53 714,52 713,47 711,44 711,42 704,30 692,18 686,14 678,10 676,10 666,6 661,6 657,4 645,4 644,3 Z M 567,50 569,48 588,48 589,47 602,47 603,48 649,48 650,49 653,49 662,54 664,57 666,58 670,67 670,82 666,91 660,97 649,102 569,102 567,100 568,99 568,51 Z M 0,3 0,226 1,227 2,226 47,226 47,89 48,88 50,88 51,89 52,92 63,109 67,118 72,125 78,137 80,139 85,149 87,151 88,154 90,156 91,159 93,161 94,164 105,181 116,202 130,202 136,190 138,188 139,185 150,168 150,166 152,164 154,159 162,147 162,145 166,140 168,135 170,133 172,128 174,126 176,121 181,114 184,107 186,105 187,102 189,100 189,98 191,96 196,87 199,89 199,94 198,95 198,97 199,98 198,99 198,226 247,226 246,224 246,191 247,190 247,185 246,184 246,160 247,159 247,155 246,154 246,11 247,10 247,4 246,3 192,3 189,10 184,17 184,19 182,21 180,26 169,43 168,47 164,52 162,57 157,64 153,73 146,83 135,104 130,111 127,118 124,121 122,121 121,120 117,111 106,94 102,85 100,83 99,80 88,63 86,58 84,56 82,51 77,44 75,39 73,37 66,23 64,21 54,3 Z M 371,0 370,1 363,1 358,3 353,3 352,4 341,7 338,9 336,9 329,13 327,13 310,24 304,30 303,30 289,45 288,48 281,57 271,79 271,82 270,83 270,86 269,87 268,94 267,95 267,102 266,103 266,127 267,128 268,141 270,145 270,148 271,149 272,154 277,164 277,166 279,168 282,175 288,184 307,204 321,214 323,214 325,216 339,223 342,223 345,225 348,225 349,226 352,226 353,227 360,228 361,229 368,229 369,230 395,230 396,229 403,229 404,228 408,228 412,226 419,225 422,223 424,223 432,219 434,219 436,217 438,217 457,204 474,187 485,171 490,161 490,159 493,153 493,150 495,147 496,139 498,135 498,128 499,127 499,105 498,104 498,97 497,96 497,92 496,91 495,84 492,77 492,74 489,69 489,67 486,63 486,61 474,43 468,37 468,36 467,36 466,34 465,34 458,27 438,13 436,13 429,9 427,9 424,7 422,7 415,4 411,4 410,3 407,3 402,1 395,1 394,0 Z M 369,46 375,46 376,45 390,45 391,46 396,46 397,47 400,47 401,48 406,49 419,55 426,60 439,74 445,84 445,86 447,89 447,91 450,98 450,102 451,103 451,127 450,128 450,132 448,135 447,141 442,151 438,157 432,163 432,164 424,171 415,177 411,178 406,181 403,181 400,183 396,183 395,184 370,184 369,183 365,183 364,182 359,181 345,174 337,168 327,157 318,141 318,139 316,136 315,129 314,128 314,123 313,122 313,107 314,106 315,97 316,96 317,91 319,88 319,86 321,84 321,82 324,78 325,75 338,61 346,55 358,49 368,47 Z" fill="#24292f" fill-rule="evenodd"/>
-</g>
-<g>
-<text x="600" y="80"><tspan class="key">Name</tspan><tspan class="muted"> ......................... </tspan><tspan class="value">Morsal Moshayekhi</tspan></text>
-<text x="600" y="110"><tspan class="key">Alias</tspan><tspan class="muted"> ................................ </tspan><tspan class="value">MORi</tspan></text>
-<text x="600" y="130"><tspan class="key">Brand</tspan><tspan class="muted"> ............................... </tspan><tspan class="value">MOREE</tspan></text>
-<text x="600" y="150"><tspan class="key">Role</tspan><tspan class="muted"> ................................ </tspan><tspan class="value">Student · AI &amp; Technology Builder</tspan></text>
-<text x="600" y="190" class="head">- Interests ─────────────────────────────────────────────</text>
-<text x="600" y="220"><tspan class="key">01</tspan><tspan class="value">  Artificial Intelligence</tspan></text>
-<text x="600" y="242"><tspan class="key">02</tspan><tspan class="value">  Software &amp; Web Development</tspan></text>
-<text x="600" y="264"><tspan class="key">03</tspan><tspan class="value">  Linux &amp; Open Source</tspan></text>
-<text x="600" y="286"><tspan class="key">04</tspan><tspan class="value">  Robotics &amp; Cybersecurity</tspan></text>
-<text x="600" y="308"><tspan class="key">05</tspan><tspan class="value">  Hardware &amp; Future Tech</tspan></text>
-<text x="600" y="348" class="head">- Currently ─────────────────────────────────────────────</text>
-<text x="600" y="378"><tspan class="key">Building</tspan><tspan class="muted"> ............................. </tspan><tspan class="value">MOREE</tspan></text>
-<text x="600" y="400"><tspan class="key">Learning</tspan><tspan class="muted"> ............................. </tspan><tspan class="value">AI, Programming, English</tspan></text>
-<text x="600" y="422"><tspan class="key">Approach</tspan><tspan class="muted"> ............................. </tspan><tspan class="value">Build · Break · Understand</tspan></text>
-<text x="600" y="462" class="head">- Contact ───────────────────────────────────────────────</text>
-<text x="600" y="492"><tspan class="key">GitHub</tspan><tspan class="muted"> ............................... </tspan><tspan class="value">@morsalmashayekhi</tspan></text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Morsal Mashayekhi MORi profile banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6f8fa"/>
+      <stop offset="1" stop-color="#e9eef3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <path d="M48 52h1104M48 208h1104" stroke="#aab7c7" stroke-width="1"/>
+  <text x="76" y="145" font-family="Consolas,monospace" font-size="92" font-weight="700" letter-spacing="4" fill="#687d00">MORi</text>
+  <text x="440" y="105" font-family="Consolas,monospace" font-size="34" font-weight="700" fill="#24292f">Morsal Mashayekhi</text>
+  <text x="442" y="151" font-family="Consolas,monospace" font-size="21" fill="#536273">MOREE  /  Code • AI • Ideas</text>
+  <text x="442" y="187" font-family="Consolas,monospace" font-size="15" letter-spacing="2" fill="#687d00">BUILD  //  BREAK  //  LEARN</text>
+  <circle cx="1120" cy="82" r="5" fill="#687d00"/>
+  <circle cx="1140" cy="82" r="5" fill="#aab7c7"/>
+  <circle cx="1160" cy="82" r="5" fill="#aab7c7"/>
+</svg>
