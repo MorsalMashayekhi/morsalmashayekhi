@@ -1,5 +1,9 @@
 name: Update MOREE profile
 on:
+  push:
+    paths:
+      - 'update_profile.py'
+      - '.github/workflows/update-profile.yml'
   schedule:
     - cron: "30 20 * * *" # 00:00 Asia/Tehran
   workflow_dispatch:
