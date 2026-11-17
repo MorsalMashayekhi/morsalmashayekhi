@@ -93,7 +93,7 @@ def github_stats():
 
 def replace_tspan(svg, element_id, value):
     # The values in the SVG are <tspan> elements, not standalone <text> elements.
-    pattern = rf'(<tspan\\b[^>]*\\bid="{re.escape(element_id)}"[^>]*>).*?(</tspan>)'
+    pattern = rf'(<tspan\b[^>]*\bid="{re.escape(element_id)}"[^>]*>).*?(</tspan>)'
     updated, count = re.subn(
         pattern,
         lambda match: match.group(1) + html.escape(str(value)) + match.group(2),
