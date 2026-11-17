@@ -27,27 +27,39 @@
   <text x="18" y="337">                  -@@@@             =@@@@.      #@@@@@@@@%-      #@@@@        @@@@@-.@@@@@@@@@@@@@@@@: @@@@@@@@@@@@@@@@=</text>
 </g>
 
-<text x="600" y="30" fill="#2d3a4a">
-<tspan x="600" y="30" class="header">Morsal Mashayekhi (MORi)</tspan><tspan class="dash"> -—————————————————————————————————————————————————————</tspan>
-<tspan x="600" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="value">:</tspan><tspan class="cc" id="age_data_dots"> ......................... </tspan><tspan class="value" id="age_data">16 years, 9 months, 13 days</tspan>
-<tspan x="600" y="110" class="cc">. </tspan><tspan class="key">Location</tspan><tspan class="value">:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">Iran</tspan>
-<tspan x="600" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="value">:</tspan><tspan class="cc"> .......................................... </tspan><tspan class="value">Visual Studio Code</tspan>
-<tspan x="600" y="150" class="cc">. </tspan><tspan class="key">Alias</tspan><tspan class="value">:</tspan><tspan class="cc"> ........................................ </tspan><tspan class="value">MORi</tspan><tspan class="cc">   |   </tspan><tspan class="key">Brand</tspan><tspan class="value">:</tspan><tspan class="value"> MOREE</tspan>
-<tspan x="600" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="value">.</tspan><tspan class="key">Programming</tspan><tspan class="value">:</tspan><tspan class="cc"> ................... </tspan><tspan class="value">HTML, Python</tspan>
-<tspan x="600" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="value">.</tspan><tspan class="key">Real</tspan><tspan class="value">:</tspan><tspan class="cc"> ...... </tspan><tspan class="value">Azerbaijani Turkish, Persian, Turkish, English</tspan>
-<tspan x="600" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan><tspan class="value">.</tspan><tspan class="key">Software</tspan><tspan class="value">:</tspan><tspan class="cc"> ................... </tspan><tspan class="value">Linux, Design, Gaming</tspan>
-<tspan x="600" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan><tspan class="value">.</tspan><tspan class="key">Hardware</tspan><tspan class="value">:</tspan><tspan class="cc"> ................ </tspan><tspan class="value">Gym, Running, Tonfa</tspan>
-<tspan x="600" y="290" class="cc">. </tspan><tspan class="key">Currently</tspan><tspan class="value">:</tspan><tspan class="cc"> ................................ </tspan><tspan class="value">Building MOREE, Learning AI &amp; English, Studying Computer Science</tspan>
+<!-- INFO PANEL: aligned terminal columns -->
+<g font-family="Consolas, 'Courier New', monospace" font-size="12" xml:space="preserve">
+<style>
+.header { fill: #2d3a4a; font-weight: 600; }
+.key { fill: #9A7600; }
+.value { fill: #1a1a2e; }
+.cc { fill: #8a9aac; }
+.addColor { fill: #1a7f37; }
+.delColor { fill: #cf222e; }
+</style>
+<text x="600" y="30" class="header">Morsal Mashayekhi (MORi)</text>
+<line x1="600" y1="39" x2="1180" y2="39" stroke="#8a9aac" stroke-opacity=".65"/>
+<text x="600" y="62"><tspan class="cc">.</tspan><tspan x="620" class="key">Uptime</tspan><tspan x="810" class="value">:</tspan><tspan x="824" class="cc">........</tspan><tspan x="860" class="value" id="age_data">16 years, 9 months, 13 days</tspan></text>
+<text x="600" y="84"><tspan class="cc">.</tspan><tspan x="620" class="key">Location</tspan><tspan x="810" class="value">:</tspan><tspan x="824" class="cc">........</tspan><tspan x="860" class="value">Iran</tspan></text>
+<text x="600" y="106"><tspan class="cc">.</tspan><tspan x="620" class="key">IDE</tspan><tspan x="810" class="value">:</tspan><tspan x="824" class="cc">........</tspan><tspan x="860" class="value">Visual Studio Code</tspan></text>
+<text x="600" y="128"><tspan class="cc">.</tspan><tspan x="620" class="key">Alias / Brand</tspan><tspan x="810" class="value">:</tspan><tspan x="824" class="cc">........</tspan><tspan x="860" class="value">MORi  |  MOREE</tspan></text>
+<text x="600" y="156"><tspan class="cc">.</tspan><tspan x="620" class="key">Languages.Programming</tspan><tspan x="810" class="value">:</tspan><tspan x="824" class="cc">........</tspan><tspan x="860" class="value">HTML, Python</tspan></text>
+<text x="600" y="178"><tspan class="cc">.</tspan><tspan x="620" class="key">Languages.Real</tspan><tspan x="810" class="value">:</tspan><tspan x="824" class="cc">........</tspan><tspan x="860" class="value">Azerbaijani Turkish, Persian, Turkish, English</tspan></text>
+<text x="600" y="206"><tspan class="cc">.</tspan><tspan x="620" class="key">Hobbies.Software</tspan><tspan x="810" class="value">:</tspan><tspan x="824" class="cc">........</tspan><tspan x="860" class="value">Linux, Design, Gaming</tspan></text>
+<text x="600" y="228"><tspan class="cc">.</tspan><tspan x="620" class="key">Hobbies.Hardware</tspan><tspan x="810" class="value">:</tspan><tspan x="824" class="cc">........</tspan><tspan x="860" class="value">Gym, Running, Tonfa</tspan></text>
+<text x="600" y="256"><tspan class="cc">.</tspan><tspan x="620" class="key">Currently</tspan><tspan x="810" class="value">:</tspan><tspan x="824" class="cc">........</tspan><tspan x="860" class="value">Building MOREE, Learning AI &amp; English,</tspan></text>
+<text x="860" y="274" class="value">Studying Computer Science</text>
+<text x="600" y="306" class="header">- Contact</text>
+<line x1="600" y1="313" x2="1180" y2="313" stroke="#8a9aac" stroke-opacity=".65"/>
+<text x="600" y="338"><tspan class="cc">.</tspan><tspan x="620" class="key">Email.Work</tspan><tspan x="810" class="value">:</tspan><tspan x="824" class="cc">........</tspan><tspan x="860" class="value">NA</tspan></text>
+<text x="600" y="360"><tspan class="cc">.</tspan><tspan x="620" class="key">Email.Personal</tspan><tspan x="810" class="value">:</tspan><tspan x="824" class="cc">........</tspan><tspan x="860" class="value">NA</tspan></text>
+<text x="600" y="382"><tspan class="cc">.</tspan><tspan x="620" class="key">X</tspan><tspan x="810" class="value">:</tspan><tspan x="824" class="cc">........</tspan><tspan x="860" class="value">@morsalmashayexi</tspan></text>
+<text x="600" y="404"><tspan class="cc">.</tspan><tspan x="620" class="key">YouTube</tspan><tspan x="810" class="value">:</tspan><tspan x="824" class="cc">........</tspan><tspan x="860" class="value">@morsal_mashayekhi</tspan></text>
+<text x="600" y="432" class="header">- GitHub Stats</text>
+<line x1="600" y1="439" x2="1180" y2="439" stroke="#8a9aac" stroke-opacity=".65"/>
+<text x="600" y="462"><tspan class="cc">.</tspan><tspan x="620" class="key">Repos</tspan><tspan x="700" class="value">:</tspan><tspan x="720" class="cc" id="repo_data_dots">....</tspan><tspan x="750" class="value" id="repo_data">2</tspan><tspan x="790" class="key">Contributed</tspan><tspan x="885" class="value">:</tspan><tspan x="900" class="value" id="contrib_data">2</tspan><tspan x="950" class="key">Stars</tspan><tspan x="995" class="value">:</tspan><tspan x="1010" class="cc" id="star_data_dots">....</tspan><tspan x="1040" class="value" id="star_data">1</tspan></text>
+<text x="600" y="484"><tspan class="cc">.</tspan><tspan x="620" class="key">Commits</tspan><tspan x="700" class="value">:</tspan><tspan x="720" class="cc" id="commit_data_dots">....</tspan><tspan x="750" class="value" id="commit_data">38</tspan><tspan x="820" class="key">Followers</tspan><tspan x="900" class="value">:</tspan><tspan x="920" class="cc" id="follower_data_dots">....</tspan><tspan x="950" class="value" id="follower_data">3</tspan></text>
+<text x="600" y="508"><tspan class="cc">.</tspan><tspan x="620" class="key">Lines of Code</tspan><tspan x="740" class="value">:</tspan><tspan x="760" class="cc" id="loc_data_dots">...</tspan><tspan x="790" class="value" id="loc_data">—</tspan><tspan x="825" class="value">(</tspan><tspan x="842" class="addColor" id="loc_add">—</tspan><tspan class="addColor">++</tspan><tspan x="880" class="value">,</tspan><tspan x="895" class="delColor" id="loc_del">—</tspan><tspan class="delColor">--</tspan><tspan x="920" class="value">)</tspan></text>
+</g>
 
-<tspan x="600" y="310" class="header">- Contact </tspan><tspan class="dash">—————————————————————————————————————————————————————</tspan>
-<tspan x="600" y="330" class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="value">.</tspan><tspan class="key">Work</tspan><tspan class="value">:</tspan><tspan class="cc"> ............................................... </tspan><tspan class="value">NA</tspan>
-<tspan x="600" y="350" class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="value">.</tspan><tspan class="key">Personal</tspan><tspan class="value">:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">NA</tspan>
-<tspan x="600" y="390" class="cc">. </tspan><tspan class="key">X</tspan><tspan class="value">:</tspan><tspan class="cc"> ................................................. </tspan><tspan class="value"> @morsalmashayexi</tspan>
-<tspan x="600" y="410" class="cc">. </tspan><tspan class="key">YouTube</tspan><tspan class="value">:</tspan><tspan class="cc"> ...................................... </tspan><tspan class="value">@morsal_mashayekhi</tspan>
-
-<tspan x="600" y="450" class="header">- GitHub Stats </tspan><tspan class="dash">———————————————————————————————————————————————————</tspan>
-<tspan x="600" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="value">:</tspan><tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">2</tspan><tspan class="value"> {</tspan><tspan class="key">Contributed</tspan><tspan class="value" id="contrib_data">2</tspan><tspan class="value">} | </tspan><tspan class="key">Stars</tspan><tspan class="value">:</tspan><tspan class="cc" id="star_data_dots"> ............ </tspan><tspan class="value" id="star_data">1</tspan>
-<tspan x="600" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan><tspan class="value">:</tspan><tspan class="cc" id="commit_data_dots"> ................... </tspan><tspan class="value" id="commit_data">38</tspan><tspan class="value"> | </tspan><tspan class="key">Followers</tspan><tspan class="value">:</tspan><tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">3</tspan>
-<tspan x="600" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan class="value">:</tspan><tspan class="cc" id="loc_data_dots"> ... </tspan><tspan class="value" id="loc_data">—</tspan><tspan class="value"> ( </tspan><tspan class="addColor" id="loc_add">—</tspan><tspan class="addColor">++</tspan><tspan class="value">, </tspan><tspan class="delColor" id="loc_del">—</tspan><tspan class="delColor">--</tspan><tspan class="value"> )</tspan>
-</text>
 </svg>
