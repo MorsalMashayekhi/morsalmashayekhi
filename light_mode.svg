@@ -29,7 +29,7 @@
 
 <text x="600" y="30" fill="#2d3a4a">
 <tspan x="600" y="30" class="header">Morsal Mashayekhi (MORi)</tspan><tspan class="dash"> -—————————————————————————————————————————————————————</tspan>
-<tspan x="600" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="value">:</tspan><tspan class="cc" id="age_data_dots"> ......................... </tspan><tspan class="value" id="age_data">16 years, 9 months, 16 days</tspan>
+<tspan x="600" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="value">:</tspan><tspan class="cc" id="age_data_dots"> ......................... </tspan><tspan class="value" id="age_data">16 years, 9 months, 17 days</tspan>
 <tspan x="600" y="110" class="cc">. </tspan><tspan class="key">Location</tspan><tspan class="value">:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">Iran</tspan>
 <tspan x="600" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="value">:</tspan><tspan class="cc"> .......................................... </tspan><tspan class="value">Visual Studio Code</tspan>
 <tspan x="600" y="150" class="cc">. </tspan><tspan class="key">Alias</tspan><tspan class="value">:</tspan><tspan class="cc"> ........................................ </tspan><tspan class="value">MORi</tspan><tspan class="cc">   |   </tspan><tspan class="key">Brand</tspan><tspan class="value">:</tspan><tspan class="value"> MOREE</tspan>
